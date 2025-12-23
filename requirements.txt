@@ -1,0 +1,8 @@
+# 核心依賴
+python-dotenv==1.0.0
+google-genai==0.3.0
+requests==2.31.0
+
+# 測試依賴
+pytest==7.4.3
+hypothesis==6.92.1
